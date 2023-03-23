@@ -1,6 +1,6 @@
 # WM-report-ALTAN
 Crea Reportes con información de la API de PRTG
-
+ 
 ## INICIO
 Para el uso de la APP, deberá tener previamente acceso a la red del servidor donde se aloja https://10.52.18.90/index.htm este servicio es privado por lo que no será accesible desde internet, el PC que acceda a este servicio tiene que llegar a acceder a la web de PRTG o utilizar la VPN. Tendrá que ver en su explorador habitual el acceso a PRTG: 
 
