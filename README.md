@@ -11,13 +11,13 @@ Para el uso de la APP, deberá tener previamente acceso a la red del servidor do
 ## INSTALL
 Es necesario que ya tenga el ZIP, este tendrá 2 archivos un Instalador y un archivo con datos del programa. En este caso ejecutamos el del ICONO de instalación y comenzamos.
 
-![Alt Text](https://wexmaster.es/wmreportaltan/iniciarInstall.png)
+![Alt Text](https://wexmaster.es/wmreportaltan/iniciar.png)
 
 ![Alt Text](https://wexmaster.es/wmreportaltan/AllUser.png)
 
 ![Alt Text](https://wexmaster.es/wmreportaltan/Installing.png)
 
-![Alt Text](https://wexmaster.es/wmreportaltan/fin.png)
+![Alt Text](https://wexmaster.es/wmreportaltan/end.png)
 
 Una vez finalizado podrá iniciar la aplicación.
 
